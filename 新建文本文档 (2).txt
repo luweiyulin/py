@@ -1,0 +1,2 @@
+python .\main.py -f D:\dep\code\python\check_file\test\target\change.txt -p D:\dep\code\python\check_file\test\Python_master 
+-o D:\dep\code\python\check_file\result -c D:\dep\code\python\check_file\result
